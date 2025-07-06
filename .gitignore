@@ -1,0 +1,45 @@
+# Maven
+/target/
+/.mvn/
+
+# Fabric Loom run directory
+/run/
+/*.log
+
+# IDE files
+.idea/
+/*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Eclipse
+.metadata/
+bin/
+tmp/
+
+# IntelliJ
+out/
+
+# Gradle (si jamais présent)
+/.gradle/
+/build/
+
+# Generated jars
+*.jar
+
+# Node (si vous ajoutez un front-end ou tooling JS)
+/node_modules/
+
+# Logs
+*.log
+
+# Misc
+*.lock
